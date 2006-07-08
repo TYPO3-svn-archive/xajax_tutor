@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">xaJax test</label>
+			<label index="mlang_labels_tabdescr">xaJax test</label>
+			<label index="mlang_labels_tablabel">xaJax test</label>
+			<label index="title">xaJax test</label>
+			<label index="simple">einfaches Beispiel</label>
+			<label index="form">Formular Beispiel</label>
+		</languageKey>
+	</data>
+</T3locallangExt>

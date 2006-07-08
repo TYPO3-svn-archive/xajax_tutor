@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>keine Ahnung</description>
+		<fileId>EXT:xajax_tutor/pi1/locallang.xml</fileId>
+		<ext_filename_template>EXT:xajax_tutor/pi1/###LANGKEY###.locallang.xml</ext_filename_template>
+		<keep_original_text type="integer">1</keep_original_text>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="testform">Testform of the xaJax Tutorial</label>
+			<label index="textarea_label">Textarea</label>
+			<label index="submit_button">Submit</label>
+			<label index="form_result">Submitted Values</label>
+		</languageKey>
+		<languageKey index="de">EXT:xajax_tutor/pi1/de.locallang.xml</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,35 @@
+<T3DataStructure>
+	<sheets>
+		<general>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:xajax_tutor/locallang.xml:tt_content.pi_flexform.general</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<option>
+						<TCEforms>
+							<label>LLL:EXT:xajax_tutor/locallang.xml:tt_content.pi_flexform.option</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:xajax_tutor/locallang.xml:tt_content.pi_flexform.withoutXajax</numIndex>
+										<numIndex index="1">withoutXajax</numIndex>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">LLL:EXT:xajax_tutor/locallang.xml:tt_content.pi_flexform.withXajax</numIndex>
+										<numIndex index="1">withXajax</numIndex>
+									</numIndex>
+								</items>
+								<size>1</size>
+								<minitems>1</minitems>
+								<maxitems>1</maxitems>
+							</config>
+						</TCEforms>
+					</option>
+				</el>
+			</ROOT>
+		</general>
+	</sheets>
+</T3DataStructure>
