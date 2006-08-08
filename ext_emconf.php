@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'This extensions is aimed to be an example of working ajax-apps with the xajax-extension',
 	'category' => 'example',
 	'shy' => 0,
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -34,6 +34,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'CGLcompliance_note' => '',
 	'constraints' => array(
 		'depends' => array(
+			'xajax'
 		),
 		'conflicts' => array(
 		),
