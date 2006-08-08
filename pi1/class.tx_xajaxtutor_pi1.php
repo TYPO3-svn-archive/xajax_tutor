@@ -82,7 +82,7 @@ class tx_xajaxtutor_pi1 extends tslib_pibase {
 				 * Instantiate the xajax object and configure it
 				 */
 				// Include xaJax
-				require (t3lib_extMgm::extPath('xajax') . 'class.tx_xajax.php');
+				require_once (t3lib_extMgm::extPath('xajax') . 'class.tx_xajax.php');
 				// Make the instance
 				$this->xajax = t3lib_div::makeInstance('tx_xajax');
 				// nothing to set, we send to the same URI
