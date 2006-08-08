@@ -151,7 +151,7 @@ class tx_xajaxtutor_pi1 extends tslib_pibase {
 					<input %s type="submit" name="%s[submit_button]" value="%s" />
 					<input type="reset" />
 				</fieldset>
-			</from>
+			</form>
 			<br />',
 			$onSubmit,
 			$this->pi_getPageLink(
